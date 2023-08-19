@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/c6/81/65/c6816590b5a6d2c3d347eae0fa071e79.gif"  />
+<img align="right" height="150" src="https://media.tenor.com/EKtAk17TLS4AAAAd/typing-linux.gif"  />
 
 ###
 
@@ -44,8 +44,10 @@
   <a href="https://mazumdarsumit3@gmail.com" target="blank"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
   <a href="https://www.linkedin.com/in/sumit-mazumdar-b39b68204" target="blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
   <a href="https://twitter.com/SumitMazumdar19" target="blank"> <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  /></a>
-   <br>
-  <br>
+  
+
+  ###
+  
   <a href="https://www.leetcode.com/mazumdarsumit3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mazumdarsumit3" height="30" width="40" /></a>
 </div>
 
@@ -53,7 +55,7 @@
 
 <br clear="both">
 
-![snake gif]
-(https://raw.githubusercontent.com/sum1t-here/sum1t-here/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/sum1t-here/sum1t-here/output/snake.svg" alt="Snake animation" />
+
 
 ###
