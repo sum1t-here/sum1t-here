@@ -53,6 +53,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sum1t-here/sum1t-here/output/snake.svg" alt="Snake animation" />
+![snake gif]
+(https://raw.githubusercontent.com/sum1t-here/sum1t-here/blob/output/github-contribution-grid-snake.gif)
 
 ###
