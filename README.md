@@ -3,29 +3,6 @@
 
 <p>
 
-I'm thrilled to have you here, and I'd like to take a moment to introduce myself and the skills I bring to the table.
-
-🚀 As a Full Stack MERN (MongoDB, Express.js, React, Node.js) Developer, I'm passionate about crafting seamless web experiences from start to finish. Here's a glimpse of what I bring to the digital realm:
-
-💡 Innovative Problem Solver: I thrive on tackling complex challenges head-on. Whether it's optimizing database performance, architecting scalable APIs, or creating stunning front-end interfaces, I'm always up for the challenge.
-
-🌐 Web Development Expertise: With a strong foundation in HTML, CSS, and JavaScript, I specialize in building interactive and responsive web applications. React is my go-to library for creating dynamic user interfaces that make a lasting impression.
-
-📡 Server-Side Mastery: Node.js and Express.js are my trusted companions when it comes to server-side development. I excel at building robust APIs, handling authentication, and ensuring data security.
-
-📊 Data Management: MongoDB is my preferred NoSQL database, and I'm adept at designing schemas, optimizing queries, and ensuring data integrity. I love working with data to derive insights and enhance user experiences.
-
-🌐 Front-End Magic: From crafting pixel-perfect UIs to implementing state management with Redux or context API, I'm committed to creating seamless and visually stunning user experiences.
-
-🌐 Responsive Design: Ensuring that your web application looks and functions flawlessly across devices and screen sizes is a top priority for me. Responsive design is not just a buzzword; it's a fundamental aspect of user satisfaction.
-
-📦 Version Control & Collaboration: I'm well-versed in Git and GitHub, making collaboration and code management a breeze. I understand the importance of teamwork and effective communication in the development process.
-
-🛠️ Continuous Learning: The tech world evolves rapidly, and I'm always eager to learn and adapt. Staying up-to-date with the latest trends and technologies is a part of my DNA.
-
-🤝 Collaboration: I believe that the best projects are born out of collaboration. I'm not just a developer; I'm a team player who values feedback and strives for excellence alongside colleagues and clients.
-
-Whether you're looking to embark on a new project, seeking guidance, or simply interested in connecting with someone passionate about web development, I'm here and ready to engage. Feel free to reach out, explore my GitHub repositories, or connect with me on social media. Let's make the web a better place together!</p>
 
 - 📫 How to reach me **mazumdarsumit3@gmail.com**
   <div align="left">
@@ -89,8 +66,6 @@ Whether you're looking to embark on a new project, seeking guidance, or simply i
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/sum1t-here/sum1t-here/output/snake.svg" alt="Snake animation" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
