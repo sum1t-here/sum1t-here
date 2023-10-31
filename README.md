@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Sumit MAzumdar! </h1>
+<h1 align="center">👋 Hello, I'm Sumit Mazumdar! </h1>
 
 🚀 I'm a passionate MERN stack developer with an insatiable curiosity for exploring new technologies.
 
