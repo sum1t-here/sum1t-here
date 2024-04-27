@@ -40,11 +40,7 @@ Let's build amazing web applications together, fueled by the power of JavaScript
 ![sum1t-here's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sum1t-here&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sumit-here&theme=discord&no-frame=false&no-bg=true&margin-w=4)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
+![trophy](https://github-profile-trophy.vercel.app/?username=sum1t-here&theme=onedark)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
