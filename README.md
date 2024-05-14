@@ -7,7 +7,7 @@ I'm passionate about building interactive and efficient web applications using c
 
 ## About Me
 - 💻 JavaScript Developer with expertise in both frontend and backend development.
-- 🚀 Proficient in building robust and scalable applications using modern frameworks and libraries such as React.js, Node.js, Express.js, Vue.js, and Angular.
+- 🚀 Proficient in building robust and scalable applications using modern frameworks and libraries such as React.js, Node.js, Express.js.
 - 🌐 Skilled in crafting responsive and user-friendly interfaces to enhance the user experience.
 - 📊 Experienced in utilizing TypeScript to build scalable and maintainable codebases.
 - 🔧 Proficient in using tools like Webpack, Babel, and ESLint to streamline development workflows and ensure code quality.
