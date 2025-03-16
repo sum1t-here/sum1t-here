@@ -67,4 +67,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo"  />
 </div>
+
+<h1>📜 My Latest Blog</h1>
+- <a href="https://sumitmazumdar.hashnode.dev/spa-deployment-on-vercel-troubleshooting-404-errors" target="_blank" rel="noopener noreferrer">SPA Deployment on Vercel - Troubleshooting 404 Errors</a>
+
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
