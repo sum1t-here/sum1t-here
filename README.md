@@ -4,71 +4,82 @@
   <img src="https://komarev.com/ghpvc/?username=sum1t-here&label=Profile%20views&color=0e75b6&style=flat" alt="sum1t-here" />
 </p>
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 I'm Sumit Mazumdar</h1>
+<h3 align="left">Backend Developer · GenAI Enthusiast</h3>
 
-###
+---
 
-<p align="left">My name is Sumit Mazumdar and I'm a Full Stack Developer, from India.</p>
+## 🧠 About Me
+- 💻 Backend-focused developer from India  
+- 🔭 Building **scalable APIs, distributed systems, and AI-powered applications**
+- 🌱 Currently learning **GenAI systems & RAG pipelines**
+- 🎯 Goal: Work on **production-grade backend & applied AI products**
+- ⚡ Fun fact: I debug best at night 🌙
 
-###
+---
 
-<h2 align="left">About me</h2>
+## 💻 Tech Stack
 
-###
+### Backend & APIs
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
 
-<p align="left">✨ Coding bugs since 2020<br>📚 I'm currently learning: React, Web3, and backend development with Go and Rust.<br>🎯 Goals: To build expertise in Solidity and blockchain, work on interesting projects, and explore opportunities in the blockchain industry.<br>🎲 Fun fact: I can code and debug at the same time – my own superpower! 😄</p>
+### Frontend (for full-stack needs)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-###
+### Databases & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws)
 
-<h2 align="left">I code with</h2>
+---
 
-###
+## 🤖 LLMs, RAG & Vector Databases
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo"  />
-</div>
+### LLMs & AI APIs
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-<h1>📜 My Latest Blog</h1>
-- <a href="https://sumitmazumdar.hashnode.dev/spa-deployment-on-vercel-troubleshooting-404-errors" target="_blank" rel="noopener noreferrer">SPA Deployment on Vercel - Troubleshooting 404 Errors</a>
+### RAG & Orchestration
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-4B0082?style=flat-square)
+
+### Vector Databases
+![Chroma](https://img.shields.io/badge/Chroma-4A4A4A?style=flat-square)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF4F8B?style=flat-square)
+
+### Techniques & Concepts
+- Retrieval-Augmented Generation (RAG)
+- Embeddings & semantic search
+- Chunking & indexing strategies
+- Prompt engineering & evaluation
+- Tool / function calling
+- API-first GenAI system design
+
+
+
+---
+
+## 📜 Latest Blog
+- **[SPA Deployment on Vercel – Troubleshooting 404 Errors](https://sumitmazumdar.hashnode.dev/spa-deployment-on-vercel-troubleshooting-404-errors)**
+
+---
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=sum1t-here&theme=dark&hide_border=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=sum1t-here&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sum1t-here&layout=compact&theme=dark&hide_border=true)
+
+---
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
