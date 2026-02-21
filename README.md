@@ -102,6 +102,56 @@ const sumit = {
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      LATEST BLOG POSTS                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="35" /> Latest Blog Posts
+<div align="center">
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" width="50" />
+      <h3>📝 Recent Articles</h3>
+<!-- BLOG-POST-LIST:START -->
+[React Hooks Deep Dive](https://medium.com/@mazumdarsumit3/i-was-writing-react-wrong-for-8-months-00557bf573a0)
+
+      
+<!-- BLOG-POST-LIST:END -->
+<br/>
+<a href="https://medium.com/@mazumdarsumit3">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+</td>
+<td width="50%" valign="top">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="50" />
+  <h3>📚 Topics I Write About</h3>
+yamlCategories:
+  - Web Development
+  - JavaScript & TypeScript
+  - React & Next.js
+  - Backend Architecture
+  - Database Design
+  - DevOps & Cloud
+  - Best Practices
+  - Code Tutorials
+  
+Writing Style:
+  - Beginner Friendly
+  - Code Examples
+  - Real-world Projects
+  - Tips & Tricks
+<br/>
+<a href="https://sum1there.hashnode.dev">
+  <img src="https://img.shields.io/badge/Read%20My%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
+</a>
+</td>
+  </tr>
+</table>
+</div>
+<div align="center">
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    GITHUB STATS WITH TROPHIES                   -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
